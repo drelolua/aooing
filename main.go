@@ -9,6 +9,8 @@ import(
 	"io"
 )
 
+/** Template
+**/
 type Template struct {
 	templates *template.Template
 }
