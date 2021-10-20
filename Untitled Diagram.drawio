@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T15:57:20.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="oWjWD4cdvZJ_Ql2ebT8k" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T16:00:44.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="bTMmkUceWIfeJ-TnpV_L" version="14.7.1" type="github">
   <diagram id="Fe9ZtSasT4ryfxhcTGeW" name="Page-1">
     <mxGraphModel dx="786" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,13 +68,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C9hMTWXCNB1dkGzNmwp6-24" value="推荐算法" style="swimlane;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="460" width="300" height="90" as="geometry" />
+          <mxGeometry x="120" y="440" width="300" height="110" as="geometry" />
         </mxCell>
         <mxCell id="C9hMTWXCNB1dkGzNmwp6-6" value="实时推荐算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C9hMTWXCNB1dkGzNmwp6-24">
-          <mxGeometry x="30" y="15" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="15" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C9hMTWXCNB1dkGzNmwp6-7" value="离线推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C9hMTWXCNB1dkGzNmwp6-24">
-          <mxGeometry x="174" y="15" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="15" width="74" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C9hMTWXCNB1dkGzNmwp6-36" value="特性推荐规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C9hMTWXCNB1dkGzNmwp6-24">
+          <mxGeometry x="120" y="15" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C9hMTWXCNB1dkGzNmwp6-25" value="" style="endArrow=classic;html=1;exitX=0.594;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="C9hMTWXCNB1dkGzNmwp6-5" target="C9hMTWXCNB1dkGzNmwp6-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -90,7 +93,7 @@
         </mxCell>
         <mxCell id="C9hMTWXCNB1dkGzNmwp6-27" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="C9hMTWXCNB1dkGzNmwp6-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="440" as="sourcePoint" />
             <mxPoint x="510" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
