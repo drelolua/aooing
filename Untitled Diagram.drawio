@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T15:28:14.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="14.7.1" etag="J19lHGcBLDwrl8MiZqbe" type="github"><diagram id="Fe9ZtSasT4ryfxhcTGeW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-20T15:44:26.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="JKMnS46tvPFHpEqorxPB" version="14.7.1" type="github">
+  <diagram id="Fe9ZtSasT4ryfxhcTGeW" name="Page-1">
+    <mxGraphModel dx="786" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C9hMTWXCNB1dkGzNmwp6-1" value="业务端服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="650" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C9hMTWXCNB1dkGzNmwp6-3" value="推荐系统接口服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C9hMTWXCNB1dkGzNmwp6-4" value="推荐系统数存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="330" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C9hMTWXCNB1dkGzNmwp6-5" value="用户画像数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="480" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C9hMTWXCNB1dkGzNmwp6-6" value="实时推荐算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C9hMTWXCNB1dkGzNmwp6-7" value="离线推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C9hMTWXCNB1dkGzNmwp6-8" value="新闻画像系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C9hMTWXCNB1dkGzNmwp6-9" value="新闻数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="480" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C9hMTWXCNB1dkGzNmwp6-10" value="用户画像系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="390" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C9hMTWXCNB1dkGzNmwp6-11" value="日志采集系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C9hMTWXCNB1dkGzNmwp6-12" value="新闻同步系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
